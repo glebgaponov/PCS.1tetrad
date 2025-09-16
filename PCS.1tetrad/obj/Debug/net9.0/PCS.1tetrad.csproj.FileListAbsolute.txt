@@ -1,0 +1,15 @@
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/bin/Debug/net9.0/PCS.1tetrad
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/bin/Debug/net9.0/PCS.1tetrad.deps.json
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/bin/Debug/net9.0/PCS.1tetrad.runtimeconfig.json
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/bin/Debug/net9.0/PCS.1tetrad.dll
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/bin/Debug/net9.0/PCS.1tetrad.pdb
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/obj/Debug/net9.0/PCS.1tetrad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/obj/Debug/net9.0/PCS.1tetrad.AssemblyInfoInputs.cache
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/obj/Debug/net9.0/PCS.1tetrad.AssemblyInfo.cs
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/obj/Debug/net9.0/PCS.1tetrad.csproj.CoreCompileInputs.cache
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/obj/Debug/net9.0/PCS.1tetrad.sourcelink.json
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/obj/Debug/net9.0/PCS.1tetrad.dll
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/obj/Debug/net9.0/refint/PCS.1tetrad.dll
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/obj/Debug/net9.0/PCS.1tetrad.pdb
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/obj/Debug/net9.0/PCS.1tetrad.genruntimeconfig.cache
+/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/obj/Debug/net9.0/ref/PCS.1tetrad.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PCS.1tetrad/1.0.0": {
+        "runtime": {
+          "PCS.1tetrad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PCS.1tetrad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/glebdremin/Documents/ПКС. 1 тетрадь/CalculatorApp/CalculatorApp.csproj": {}
+    "/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/PCS.1tetrad.csproj": {}
   },
   "projects": {
-    "/Users/glebdremin/Documents/ПКС. 1 тетрадь/CalculatorApp/CalculatorApp.csproj": {
+    "/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/PCS.1tetrad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/glebdremin/Documents/ПКС. 1 тетрадь/CalculatorApp/CalculatorApp.csproj",
-        "projectName": "CalculatorApp",
-        "projectPath": "/Users/glebdremin/Documents/ПКС. 1 тетрадь/CalculatorApp/CalculatorApp.csproj",
+        "projectUniqueName": "/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/PCS.1tetrad.csproj",
+        "projectName": "PCS.1tetrad",
+        "projectPath": "/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/PCS.1tetrad.csproj",
         "packagesPath": "/Users/glebdremin/.nuget/packages/",
-        "outputPath": "/Users/glebdremin/Documents/ПКС. 1 тетрадь/CalculatorApp/obj/",
+        "outputPath": "/Users/glebdremin/Documents/PCS.1tetrad/PCS.1tetrad/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/glebdremin/.nuget/NuGet/NuGet.Config"
